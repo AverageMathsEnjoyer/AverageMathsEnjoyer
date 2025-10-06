@@ -1,3 +1,0 @@
-- 👋 Hi, I’m the average maths enjoyer.
-- 👀 I’m interested in maths.
-- 🌱 I’m currently procrastinating.
